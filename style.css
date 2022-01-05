@@ -90,10 +90,7 @@ a:hover {
   right: 0;
 }
 
-.texture-paper::before {
-  background: url("img/texture-paper.webp");
-  background-size: 280px 280px;
-}
+
 
 .b-parallax {
   background-attachment: fixed;
@@ -775,15 +772,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #f87f47;
 }
 
 .tc-white {
-  color: #f3976c !important;
-}
+  color: #fff !important;
+} 
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #f87f47;
   color: #ffffff !important;
 }
 
@@ -813,9 +810,7 @@ h4 {
   border-color: #364577 !important;
 }
 
-.bg-dots-bg {
-  background-image: url("img/dots-bg.webp");
-}
+
 
 
 .bg-banniere {
