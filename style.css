@@ -128,7 +128,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255);
 }
 
 .d-bloc .a-btn:hover,
@@ -703,8 +703,6 @@ p {
   margin: auto auto auto auto;
 }
 
-
-
 h2 {
   font-size: 22px;
   line-height: 1.4em;
@@ -764,7 +762,7 @@ h4 {
 }
 
 .bgc-white {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .bgc-dark-slate-blue {
@@ -1032,4 +1030,14 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+}
+
+blockquote,
+figcaption {
+  color: #6a6a6a;
+  font-weight: 600;
+}
+figcaption {
+  color: #6a6a6a;
+  font-weight: 500;
 }
