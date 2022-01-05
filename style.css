@@ -90,8 +90,6 @@ a:hover {
   right: 0;
 }
 
-
-
 .b-parallax {
   background-attachment: fixed;
 }
@@ -772,15 +770,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color:#9C3607;
+  background-color: #9c3607;
 }
 
 .tc-white {
   color: #fff !important;
-} 
+}
 
 .btn-atomic-tangerine {
-  background:#9C3607;
+  background: #9c3607;
   color: #ffffff !important;
 }
 
@@ -809,9 +807,6 @@ h4 {
   color: #364577 !important;
   border-color: #364577 !important;
 }
-
-
-
 
 .bg-banniere {
   background-image: url("img/la-chouette-agence-banniere.webp");
