@@ -1041,7 +1041,7 @@ figcaption {
   font-weight: 500;
 }
 
-a:focus {
+a:focus-visible {
   outline: 2px solid blue;
   outline-offset: 3px;
 }
